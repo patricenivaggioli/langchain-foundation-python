@@ -9,7 +9,7 @@
         {
             "title": "Introduction to LangChain with Python",
             "file": "000-introduction-to-langchain-python",
-            "panel": "terminal"
+            "panel": "jupyter"
         },
         {
             "title": "Title 1",
