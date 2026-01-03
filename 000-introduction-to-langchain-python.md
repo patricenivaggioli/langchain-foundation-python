@@ -1,4 +1,4 @@
-# 🔗 Introduction to LangChain - Python
+# Introduction to LangChain with Python
 
 ## Introduction
 

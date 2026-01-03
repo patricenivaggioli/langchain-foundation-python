@@ -24,8 +24,7 @@
         {
             "title": "Title 3",
             "file": "300-chapter3",
-            "panel": "terminal",
-            "externalPage": "https://%%CONTENTURL%%/lab.html"
+            "panel": "terminal"
         }
     ]
 }
