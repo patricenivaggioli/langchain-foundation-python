@@ -1,5 +1,5 @@
 {
-    "title": "🔗 Introduction to LangChain - Python",
+    "title": "Introduction to LangChain with Python",
     "labguideVisible": true,
     "uploadEnabled": true,
     "additionalOptionsEnabled": true,
@@ -7,7 +7,7 @@
     "displayMode": "terminal",
     "chapters": [
         {
-            "title": "🔗 Introduction to LangChain - Python",
+            "title": "Introduction to LangChain with Python",
             "file": "000-introduction-to-langchain-python",
             "panel": "jupyter"
         },
