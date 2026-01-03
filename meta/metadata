@@ -1,5 +1,5 @@
 {
-    "title": "Demo lab - platform details",
+    "title": "🔗 Introduction to LangChain - Python",
     "labguideVisible": true,
     "uploadEnabled": true,
     "additionalOptionsEnabled": true,
@@ -7,9 +7,9 @@
     "displayMode": "terminal",
     "chapters": [
         {
-            "title": "Overview",
-            "file": "000-overview",
-            "panel": "none"
+            "title": "🔗 Introduction to LangChain - Python",
+            "file": "000-introduction-to-langchain-python",
+            "panel": "jupyter"
         },
         {
             "title": "Title 1",
