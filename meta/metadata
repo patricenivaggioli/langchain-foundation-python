@@ -1,5 +1,6 @@
 {
     "title": "Introduction to LangChain with Python",
+    "jupyterNotebook": "1.0_foundational_models_azure",
     "labguideVisible": true,
     "uploadEnabled": true,
     "additionalOptionsEnabled": true,
