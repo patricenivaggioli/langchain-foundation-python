@@ -9,23 +9,8 @@
     "chapters": [
         {
             "title": "Introduction to LangChain with Python",
-            "file": "1.0_foundational_models_azure",
+            "file": "100_foundational_models_azure",
             "panel": "jupyter"
-        },
-        {
-            "title": "Title 1",
-            "file": "100-chapter1",
-            "panel": "terminal"
-        },
-        {
-            "title": "Title 2",
-            "file": "200-chapter2",
-            "panel": "terminal"
-        },
-        {
-            "title": "Title 3",
-            "file": "300-chapter3",
-            "panel": "terminal"
         }
     ]
 }
